@@ -6,7 +6,7 @@
 
 Colección de herramientas técnicas especializadas en automatización, análisis forense de Windows y auditoría de sistemas. Este repositorio centraliza utilidades propias diseñadas bajo principios de eficiencia, minimalismo y uso de APIs nativas.
 
-## Uso y Requisitos
+## Usos
 
 Cada herramienta incluye su propio bloque de documentación interna. Como regla general:
 
