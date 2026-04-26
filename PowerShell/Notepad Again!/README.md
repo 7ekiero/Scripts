@@ -1,7 +1,6 @@
-# Notepad Session Manager
+# Notepad Again!
 
 > PowerShell script para controlar la persistencia de sesión del nuevo Microsoft Notepad (Windows 11).  
-> PowerShell script to control session persistence of the new Microsoft Notepad (Windows 11).
 
 ---
 
@@ -30,15 +29,9 @@ El nuevo **Microsoft Notepad** (Windows 11) guarda automáticamente el estado de
 | Notepad | Versión Microsoft Store (nuevo Notepad) |
 | Permisos | Administrador (elevación automática incluida) |
 
-### Instalación y uso
+### Uso
 
-**1. Clonar o descargar el repositorio**
-```powershell
-git clone https://github.com/tu-usuario/notepad-session-manager.git
-cd notepad-session-manager
-```
-
-**2. Ejecutar el script**
+**1. Ejecutar el script**
 ```powershell
 # Opción A: clic derecho sobre notepad.ps1 → "Ejecutar con PowerShell"
 
@@ -55,7 +48,7 @@ powershell.exe -ExecutionPolicy Bypass -File .\notepad.ps1
 
 ```
 ===============================================
-   NOTEPAD SESSION MANAGER  |  v1.1
+   NOTEPAD AGAIN!  |  v1.0
    Target: TabState Persistence Control
 ===============================================
 
@@ -119,15 +112,9 @@ The new **Microsoft Notepad** (Windows 11) automatically saves the state of open
 | Notepad | Microsoft Store version (new Notepad) |
 | Permissions | Administrator (auto-elevation included) |
 
-### Installation & usage
+### Usage
 
-**1. Clone or download the repository**
-```powershell
-git clone https://github.com/your-username/notepad-session-manager.git
-cd notepad-session-manager
-```
-
-**2. Run the script**
+**1. Run the script**
 ```powershell
 # Option A: right-click notepad.ps1 → "Run with PowerShell"
 
@@ -144,7 +131,7 @@ powershell.exe -ExecutionPolicy Bypass -File .\notepad.ps1
 
 ```
 ===============================================
-   NOTEPAD SESSION MANAGER  |  v1.1
+   NOTEPAD AGAIN!  |  v1.0
    Target: TabState Persistence Control
 ===============================================
 
