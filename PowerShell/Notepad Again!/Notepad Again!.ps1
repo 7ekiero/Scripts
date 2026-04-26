@@ -1,7 +1,7 @@
 #Requires -Version 5.1
 <#
 .SYNOPSIS
-    Notepad Session Persistence Manager
+    Notepad Session Persistence Manager (Notepad Again!)
 .DESCRIPTION
     Controla la persistencia de sesion del nuevo Microsoft Notepad
     manipulando permisos ACL sobre la carpeta TabState.
@@ -48,7 +48,7 @@ function Invoke-Icacls {
 function Get-Banner {
     Clear-Host
     Write-Host "===============================================" -ForegroundColor Cyan
-    Write-Host "   NOTEPAD SESSION MANAGER  |  v1.1           " -ForegroundColor Cyan
+    Write-Host "   NOTEPAD AGAIN!  |  v1.0                     " -ForegroundColor Cyan
     Write-Host "   Target: TabState Persistence Control        " -ForegroundColor DarkCyan
     Write-Host "===============================================" -ForegroundColor Cyan
     Write-Host ""
